@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabian-B
 - 👀 I’m interested in everything linux and web related
-- 🌱 I’m currently learning PHP & Laraval
+- 🌱 I’m currently learning PHP & Symfony
 - :technologist: I'm currently working @Combell part of Team.blue
 - 📫 How to reach me fabian.boone@combellgroup.com
 
